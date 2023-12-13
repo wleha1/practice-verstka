@@ -1,0 +1,2 @@
+border-radius: 50px;
+background: url(<path-to-image>), lightgray -13.125px 0.029px / 182.813% 221.812% no-repeat;
